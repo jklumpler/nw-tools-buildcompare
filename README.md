@@ -4,7 +4,7 @@ It's a macro-enabled Microsoft Excel spreadheet, that loads two .cbf files and h
 It is typically used to compare your current build vs your target build and to track your progress.
 
 ## Warning!
-This spreadsheet contains VBA code. The code is mostly harmless and it is used to automatically parse and load the .cbf files into appropriate tab. When you run the spreadheet, you will be prompted to enable macros, which is recomended, so you can just load the .cbf files using the buttons. If you don't feel comfortable enbling macros (which is fair enough, I am just a random dude from the internet after all), you can still use the tool, but you will need to load the .cbf files manually (which is more invloved). 
+This spreadsheet contains VBA code. The code is mostly harmless and it is used to automatically parse and load the .cbf files into appropriate tab. When you run the spreadheet, you will be prompted to "Enable Editing" and "Enable Content", which is recomended, so you can just load the .cbf files using the buttons. If you don't feel comfortable enbling content (which is fair enough, I am just a random dude from the internet after all), you can still use the tool, but you will need to load the .cbf files manually (which is more invloved). 
 
 Here is how:
 
